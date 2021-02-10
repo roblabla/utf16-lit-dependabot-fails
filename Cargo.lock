@@ -9,6 +9,6 @@ dependencies = [
 
 [[package]]
 name = "utf16_lit"
-version = "1.0.1"
+version = "2.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "403231d2fb8f0f55daf24cd03571f4fc1bb856e0fa98c1832bbae3f6ff7e7a07"
+checksum = "e89cd02b9ae40b7f3f109f450d04fa6816009e8e68ced3da94c7cd1b6f39c481"
